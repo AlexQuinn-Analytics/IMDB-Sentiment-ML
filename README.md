@@ -30,7 +30,7 @@ Please download and place `IMDB Dataset.csv` inside the `data/` folder before ru
 Just run:
 
 ```bash
-python src/imdb_sentiment_classification_v2_3weeks_progress.py
+python src/imdb_sentiment_classification.py
 ````
 
 Make sure you have installed the required Python packages (pandas, numpy, nltk, matplotlib, seaborn, scikit-learn, textblob).
