@@ -47,5 +47,3 @@ Feel free to ⭐ or reach out to chat about NLP, ML, or movies\!
 
 Keep coding, keep growing. 🚀💻
 
-```
-```
