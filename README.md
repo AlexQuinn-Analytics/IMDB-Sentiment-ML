@@ -31,10 +31,10 @@ Just run:
 python src/imdb_sentiment_classification_v2_3weeks_progress.py
 Make sure you have installed the required Python packages (pandas, numpy, nltk, matplotlib, seaborn, scikit-learn, textblob).
 
-💡 What I learned
+##💡 What I learned
 Combining classic NLP with modern ML, exploring topic modeling, and improving model interpretability.
 
-🙏 Thanks for stopping by!
+##🙏 Thanks for stopping by!
 Feel free to ⭐ or reach out to chat about NLP, ML, or movies!
 
 Keep coding, keep growing. 🚀💻
